@@ -10,6 +10,7 @@
 - Microsoft Azure Fundamentals (AZ-900): Identity, Deployment, and Management
 - Microsoft Azure Fundamentals (AZ-900): Azure Security Management and Governance
 - Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Services
+- Microsoft Defender: Introduction
 
 
 ## Azure Labs
