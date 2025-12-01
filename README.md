@@ -1,4 +1,4 @@
-# Pluralsight_Training
+# Pluralsight
 
 ## Azure Labs
 
