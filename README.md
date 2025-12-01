@@ -1,3 +1,7 @@
-# PlauralSight_Training
+# Pluralsight_Training
 
-Manage Users and Groups in Microsoft Entra ID
+## Azure Labs
+
+### Completed Labs
+- Manage Users and Groups in Microsoft Entra ID
+- Build an Azure DevOps Pipeline for Terraform
