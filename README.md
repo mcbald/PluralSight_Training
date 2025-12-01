@@ -10,13 +10,15 @@
 - Microsoft Azure Fundamentals (AZ-900): Identity, Deployment, and Management
 - Microsoft Azure Fundamentals (AZ-900): Azure Security Management and Governance
 - Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Services
-- Microsoft Defender: Introduction
 
 
 ## Azure Labs
 - Manage Users and Groups in Microsoft Entra ID
 - Build an Azure DevOps Pipeline for Terraform
 - Creating Network Resources in Azure with Terraform
+
+## Microsoft Defender
+-Implementing and Managing Microsoft Defender XDR
 
 ## Terraform Courses
 - Terraform: Getting Started
