@@ -19,7 +19,6 @@
 
 ## Microsoft Defender
 - Implementing and Managing Microsoft Defender XDR
-  -    
 
 ## Terraform Courses
 - Terraform: Getting Started
