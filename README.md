@@ -12,10 +12,11 @@
 - Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Services
 
 
-## Azure Labs
+## Labs
 - Manage Users and Groups in Microsoft Entra ID
 - Build an Azure DevOps Pipeline for Terraform
 - Creating Network Resources in Azure with Terraform
+- Monitoring and Detection: Splunk 
 
 ## Microsoft Defender
 - Implementing and Managing Microsoft Defender XDR
