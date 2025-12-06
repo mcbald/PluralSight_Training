@@ -12,6 +12,7 @@
 - Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Services
 - Manage Users and Groups in Microsoft Entra ID
 - Deploy a Secure Web App Using NSGs and Private Endpoints
+- Securely Access Script Secrets in Azure Key Vault
 
 ## Microsoft Defender
 - Implementing and Managing Microsoft Defender XDR
