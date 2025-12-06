@@ -11,6 +11,7 @@
 - Microsoft Azure Fundamentals (AZ-900): Azure Security Management and Governance
 - Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Services
 - Manage Users and Groups in Microsoft Entra ID
+- Deploy a Secure Web App Using NSGs and Private Endpoints
 
 ## Microsoft Defender
 - Implementing and Managing Microsoft Defender XDR
