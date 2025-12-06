@@ -20,6 +20,6 @@
 - Terraform: Getting Started
 - Creating Network Resources in Azure with Terraform
 - Build an Azure DevOps Pipeline for Terraform
--  
+
 ## Tools
 - Monitoring and Detection: Splunk 
