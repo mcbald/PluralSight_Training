@@ -11,6 +11,7 @@
 - Microsoft Azure Fundamentals (AZ-900): Azure Security Management and Governance
 - Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Services
 - Manage Users and Groups in Microsoft Entra ID
+- Create and Manage Microsoft Entra ID Users in the Portal
 - Deploy a Secure Web App Using NSGs and Private Endpoints
 - Securely Access Script Secrets in Azure Key Vault
 
